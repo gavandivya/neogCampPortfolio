@@ -95,16 +95,16 @@ hr{
     width: 100%;
 }
 
-.hero .hero-heading{
+.hero .heading{
     padding-top:1 rem;
     color: var(--primary-color);
     text-align: center;
     font-size: 2rem;    
 }
 
-.hero .hero-heading .heading-inverted{
-    color: black;
-}
+/* .hero .hero-heading .heading-moving{
+    color: #1e3a8a;
+} */
 /* Section */
 .section {
     padding: 2rem 0;
