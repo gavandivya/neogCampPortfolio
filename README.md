@@ -20,7 +20,7 @@ Javascript
 
 ## Website User Interface
 
-
+![](https://github.com/gavandivya/neogCampPortfolio/raw/main/images/portfolio.png)
 
 Give a 🌟 if you found this repository useful!
 
